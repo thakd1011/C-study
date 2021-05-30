@@ -1,2 +1,6 @@
-#in this local as root
+# ignore specific files
 C-study.code-workspace
+tasks.json
+
+# ignore by fileType
+.vscode
